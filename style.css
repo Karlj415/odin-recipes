@@ -1,0 +1,15 @@
+.prep {
+    display: grid;
+    
+}
+
+.colum1 {
+    grid-column: 1;
+
+}
+.colum2 {
+    grid-column: 1;
+    text-align: center;
+    margin-left: -900px;
+    padding-bottom: 50px;
+}
