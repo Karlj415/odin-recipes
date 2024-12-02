@@ -1,3 +1,4 @@
+/*  
 .prep {
     display: grid;
     
@@ -13,3 +14,13 @@
     margin-left: -900px;
     padding-bottom: 50px;
 }
+    This is for another time. I don't know if this will work with the current understanding of css that I have. 
+    */
+
+    ul {
+        list-style-type: square;
+    }
+
+ ol {
+     list-style-type: upper-roman;
+ }
