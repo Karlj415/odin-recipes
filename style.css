@@ -18,9 +18,37 @@
     */
 
     ul {
-        list-style-type: square;
+        list-style-type: none;
+        text-align: center;
     }
 
  ol {
-     list-style-type: upper-roman;
+     list-style-type: none;
+     text-align: center;
+ }
+
+ h1 {
+    background-color: rgba(15, 120, 100, 0.3);
+    color: rgba(25, 55, 125, 0.4);
+    font-weight: bold;
+    border: solid;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+
+
+ }
+
+ img {
+    margin-left: 35%;
+    border-radius: 10%;
+    border: solid;
+ }
+
+ h2 {
+    text-align: center;
+ }
+
+ p {
+    text-align: center;
  }
